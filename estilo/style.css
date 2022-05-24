@@ -93,9 +93,6 @@ header {
 .menu .ative a {
     border-bottom: 5px solid var(--cor1);    
     color: var(--cor1);
-    background-color: #333;
-    transition: 0.5s;
-    cursor: pointer;
 }
 
 
@@ -193,7 +190,7 @@ footer  {
     color: var(--cor6);
 }
 
-footer > a , p {
+footer > a ,p {
     text-align: center;
     text-decoration: none;
     color: var(--cor6);
@@ -202,4 +199,5 @@ footer > a , p {
 footer a:hover {
     text-decoration: underline;
     transition-duration: 1.0s;
+    background-color: var(--cor6);
 }
