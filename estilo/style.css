@@ -88,8 +88,9 @@ nav {
     display: flex;
     align-items: center;
     border-bottom: 5px solid #000;
-    padding-left: 2px;
-    padding-right: 2px;
+    padding-left: 22px;
+    padding-right: 22px;
+    max-width: 600px;
     height: 100px;
 }
 
