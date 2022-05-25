@@ -97,6 +97,7 @@ nav {
 .menu .ative a {
     border-bottom: 5px solid var(--cor1);    
     color: var(--cor1);
+    background-color: #333;
 }
 
 
