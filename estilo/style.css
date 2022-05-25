@@ -181,6 +181,12 @@ header {
     background-color: var(--cor6);
 }
 
+.digital {
+    color: #FFF;
+    font-size: 30px;
+    margin-right: 2px;
+}
+
 footer  {
     background-color: var(--cor7);
     font-weight: bolder;
