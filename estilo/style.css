@@ -45,10 +45,10 @@ header {
 }
 
 .logoimg {
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
     margin-left: 0px;
-    margin-right: 1px;
+    margin-right: 0px;
     background-color: var(--cor1);
     background-image: url('../imagens/imgico.jpg');
     background-position: center;
