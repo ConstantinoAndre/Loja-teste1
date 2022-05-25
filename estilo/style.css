@@ -56,9 +56,13 @@ header {
     border-radius: 40px;
 }
 
+nav {
+    padding-right: 10px;
+}
+
 .imgmenu {
     padding-top: 35px;
-    padding-right: 5px;
+    padding-right: 1px;
 }
 
 .menu {
