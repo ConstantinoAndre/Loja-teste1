@@ -47,8 +47,8 @@ header {
 .logoimg {
     width: 80px;
     height: 80px;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 0px;
+    margin-right: 1px;
     background-color: var(--cor1);
     background-image: url('../imagens/imgico.jpg');
     background-position: center;
