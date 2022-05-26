@@ -186,13 +186,6 @@ nav {
     background-color: var(--cor6);
 }
 
-.digital {
-    color: var(--cor1);
-    font-weight: bolder;
-    font-size: 15px;
-    margin-top: 38px;
-}
-
 footer  {
     background-color: var(--cor7);
     font-weight: bolder;
