@@ -58,11 +58,6 @@ header {
     border-radius: 40px;
 }
 
-.imgmenu {
-    padding-top: 35px;
-    padding-right: 1px;
-}
-
 .menu {
     flex: 1;
     display: flex;
