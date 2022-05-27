@@ -24,7 +24,7 @@ body {
     font-size: 14px;
     background-image: url('../imagens/fundo.jpeg');
     background-size: cover;
-    
+    overflow: hidden;
 }
 
 header {
