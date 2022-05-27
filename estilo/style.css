@@ -34,7 +34,7 @@ header {
 }
 
 .header {
-    max-width: 1140px;
+    max-width: 2140px;
     height: 100px;
     margin: auto;
     display: flex;
