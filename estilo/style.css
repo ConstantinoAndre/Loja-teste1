@@ -22,7 +22,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
     background-image: url('../imagens/fundo.jpeg');
     background-size: cover;
 }
