@@ -22,7 +22,9 @@
 body {
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
-    overflow-x: hidden;
+    background-image: url('../imagens/fundo.jpeg');
+    background-size: cover;
+    
 }
 
 header {
@@ -94,14 +96,6 @@ header {
     border-bottom: 5px solid var(--cor1);    
     color: var(--cor1);
     background-color: #333;
-}
-
-.banner {
-    height: calc(100vh - 100px);
-    background-color: #333;
-    background-image: url('../imagens/fundo.jpeg');
-    background-size: cover;
-    overflow: hidden;
 }
 
 .content {
