@@ -34,7 +34,7 @@ header {
 }
 
 .header {
-    max-width: 2140px;
+    max-width: 600px;
     height: 100px;
     margin: auto;
     display: flex;
@@ -42,7 +42,7 @@ header {
 }
 
 .logo {
-    width: 100px;
+    width: 38px;
 
 }
 
