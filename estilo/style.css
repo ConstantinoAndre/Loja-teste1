@@ -23,6 +23,8 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     overflow-x: hidden;
+    background-image: url('../imagens/fundo.jpeg');
+    background-size: cover;
 }
 
 header {
@@ -100,18 +102,11 @@ nav {
     background-color: #333;
 }
 
-.banner {
-    height: calc(100vh - 100px);
-    background-color: #333;
-    background-image: url('../imagens/fundo.jpeg');
-    background-size: cover;
-    overflow: hidden;
-}
 
 .content {
     margin-top: 40px;
     height: 400px;
-    width: 600px;
+    width: 500px;
     border-radius: 20px;
     overflow: hidden;
     position: absolute;
@@ -181,26 +176,4 @@ input {
 
 #slide5:checked ~ .s1 {
     margin-left: -80%;
-}
-
-
-footer  {
-    background-color: var(--cor7);
-    font-weight: bolder;
-    font-size: 15px;
-    padding-top: 10px;
-    margin: auto;
-    color: var(--cor6);
-}
-
-footer > a ,p {
-    text-align: center;
-    text-decoration: none;
-    color: var(--cor6);
-}
-
-footer a:hover {
-    text-decoration: underline;
-    transition-duration: 1.0s;
-    background-color: var(--cor6);
 }
